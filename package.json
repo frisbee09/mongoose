@@ -68,7 +68,6 @@
   "directories": {
     "lib": "./lib/mongoose"
   },
-  "files": ["./dist/**/*"],
   "scripts": {
     "lint": "eslint .",
     "build-browser": "node build-browser.js",
